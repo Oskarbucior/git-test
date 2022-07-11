@@ -1,0 +1,23 @@
+[33mcommit 600a1147dc354fa9efebd4c50d044c9185cc7a3e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Oskar-B <oskar.bucior@globallogic.com>
+Date:   Mon Jul 11 19:23:56 2022 +0200
+
+    Trzeci commit - modyfikacja pliku 1.txt
+
+[33mcommit ed3820ea22bc4ec2c68268d87f4bf93d0ca18dc4[m
+Author: Oskar-B <oskar.bucior@globallogic.com>
+Date:   Mon Jul 11 19:17:54 2022 +0200
+
+    Dodajemy trzy nowe pliki
+
+[33mcommit 62a09e2aebe51e7361220816c06158a72ba49775[m
+Author: Oskar <oskar.bucior@globallogic.com>
+Date:   Mon Jul 11 19:04:50 2022 +0200
+
+    Dodajemy pierwszy plik 1.txt
+
+[33mcommit 25483d5743aace9b9eccf8b82f9a5f5388e51688[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Oskarbucior <109096680+Oskarbucior@users.noreply.github.com>
+Date:   Mon Jul 11 18:21:34 2022 +0200
+
+    Initial commit
